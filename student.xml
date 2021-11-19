@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Tran Dinh Huan</name>
+        <age>22</age>
+        <address>Ha Noi</address>
+        <gpa>8.0</gpa>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Tran Dinh Cuong</name>
+        <age>25</age>
+        <address>Ha Tinh</address>
+        <gpa>9.0</gpa>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Tran Khanh Linh</name>
+        <age>6</age>
+        <address>Ha Tinh</address>
+        <gpa>9.5</gpa>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Nguyen Thi Chau</name>
+        <age>25</age>
+        <address>Ha Tinh</address>
+        <gpa>9.0</gpa>
+    </student>
+</students>
